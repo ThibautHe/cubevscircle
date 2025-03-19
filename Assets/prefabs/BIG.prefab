@@ -150,9 +150,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9261d10581a82d84fb9ba37d007b42ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  YbounceForce: 17
-  XbounceForce: 4
-  isInital: 0
+  YbounceForce: 22
+  XbounceForce: 6
+  isInital: 1
 --- !u!114 &8089537617920798162
 MonoBehaviour:
   m_ObjectHideFlags: 0

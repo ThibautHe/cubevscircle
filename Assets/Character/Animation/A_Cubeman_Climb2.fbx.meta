@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 369090e6b41c0e04b977cf3db9c98fd4
+guid: b88b1bdd9c4deb64b8ed433a0efebfa0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,7 +31,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Climb Right
+      name: Take 001
       takeName: Take 001
       internalID: 1827226128182048838
       firstFrame: 2

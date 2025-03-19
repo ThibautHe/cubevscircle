@@ -19,7 +19,9 @@ public class Ladder : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Enter");
-            other.GetComponent<PlayerMovements>().canClimb = true;
+            PlayerMovements player = other.GetComponent<PlayerMovements>();
+            player.canClimb = true;
+            player.SetLadderX(transform);
         }
     }
 
